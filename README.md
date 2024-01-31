@@ -10,9 +10,8 @@
 
 #### 2. 데이터 설명
 외부 데이터를 사용할 수 없어 제공되는 롯데계열사 데이터만 사용한다.
-<p align="center">
-![image](https://github.com/HASEOKYUNG/CRM_for_SilverGeneration/assets/104245855/51f205f0-b420-4e26-8ae6-a45191f98310)
-</p>
+![CRM](https://github.com/HASEOKYUNG/CRM_for_SilverGeneration/assets/104245855/963ad5a9-2411-45d6-b9df-5c622feb80c6)
+
 
 #### 3. 데이터 전처리
 - 구매가격의 이상치의 발생 과정을 확인하며 증정 행사임을 밝혀냈다.
